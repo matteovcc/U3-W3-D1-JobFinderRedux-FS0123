@@ -1,4 +1,4 @@
-export const ADD_TO_FAOURITES = "ADD_TO_FAVOURITES";
+export const ADD_TO_FAVOURITES = "ADD_TO_FAVOURITES";
 export const REMOVE_FROM_FAVOURITES = "REMOVE_FROM_FAVOURITES";
 export const JOB = "JOB";
 export const SEARCH = "SEARCH";
